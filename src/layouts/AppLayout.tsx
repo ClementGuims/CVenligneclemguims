@@ -66,7 +66,7 @@ export default function Desktop({ initialBg, backgroundMap }: AppLayoutProps) {
 
   const tutorialSteps: TutorialStep[] = [
     {
-      title: "Bienvenue sur mon CV en ligne!👋",
+      title: "Bienvenue sur mon CV en ligne !👋",
       content: "Inspiré de l’univers macOS, conçu pour vous faire découvrir mes expériences, mon parcours et mes projets. Suivez-moi, je vous guide à travers ses fonctionnalités !",
       // action: () => setShowNotes(true),
       buttonText: "Suivez-moi"
