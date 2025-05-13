@@ -181,22 +181,9 @@ export const userConfig = {
         },
         {
             title: "Basket-ball",
-            institution: "J'aime beaucoup le basket, je vais plus souvent voir des matchs que le pratiquer",
+            institution: "J'aime beaucoup le basket, je vais plus souvent voir des matchs de Basket Landes que pratiquer",
             location: "c'est un plaisir d'avoir l'ambiance des matchs dans le Sud-Ouest.",
             year: "3 ans"
-        },
-        {
-            title: "Bière-pong",
-            institution: "Je pratique le bière-pong avec mes amis",
-            location: "chaque été c'est l'occasion d'améliorer mes compétences.",
-            year: "9 ans",
-            images: [
-                {
-                    url: "https://i.ibb.co/pv0cqJNh/beerpong.jpg",
-                    alt: "Bière-pong",
-                    description: "Bière-pong toute l'année"
-                }
-            ]
         }
     ],
 
