@@ -123,9 +123,6 @@ ${userConfig.experience.map(exp => `- ${exp.title} at ${exp.company}, ${exp.loca
 Mes projets:
 ${userConfig.projects.map(project => `- ${project.title}: ${project.description}`).join('\n')}
 
-Mes réalisations et mes concours:
-${userConfig.competitions.map(comp => `- ${comp.title} (${comp.year}): ${comp.achievement}`).join('\n')}
-
 Règles de réponse:
 1. TOUJOURS utiliser la première personne (je, moi, mon)
 2. Ne jamais dire "${userConfig.name}" ou me désigner à la troisième personne
