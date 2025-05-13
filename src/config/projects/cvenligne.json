@@ -476,6 +476,20 @@
         ]
     },
     "images": [
-        
+        {
+            "url": "https://i.ibb.co/qL5bz0t6/screen-sitecv.png",
+            "alt": "CV en ligne",
+            "description": "Page de garde"
+        },
+        {
+            "url": "https://i.ibb.co/hR96cX2w/screen-sitecv2.png",
+            "alt": "CV en ligne",
+            "description": "Onglet réalisations"
+        },
+        {
+            "url": "https://i.ibb.co/rRpVFdzp/screen-sitecv3.png",
+            "alt": "CV en ligne",
+            "description": "Page projets"
+        }
     ]
 }

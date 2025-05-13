@@ -50,11 +50,11 @@ export const userConfig = {
             year: "2019-2022",
             description: "Conception, gestion et sécurisation des systèmes d’information. Développement et intégration d’applications métiers (web, mobile, logiciel). Administration des infrastructures réseaux, cloud et bases de données. Cybersécurité, gouvernance IT et gestion des risques. Pilotage de projets informatiques et déploiement de solutions technologiques adaptées aux entreprises. Sujet de mémoire : Quel est l’impact de l’intelligence artificielle sur les entreprises du marché du developpement web ? Note globale de mémoire : 17/20.",
             images: [
-                // {
-                //     url: "https://i.ibb.co/JRnwtwV2/isitechlyon.png",
-                //     alt: "ISITECH",
-                //     description: "ISITECH"
-                // }
+                {
+                    url: "https://i.ibb.co/JRnwtwV2/isitechlyon.png",
+                    alt: "ISITECH",
+                    description: "ISITECH"
+                }
             ]
         },
         {
@@ -65,11 +65,11 @@ export const userConfig = {
             year: "2017-2019",
             description: "Conception, administration et sécurisation de réseaux informatiques et télécoms. Installation et configuration d'équipements réseaux (routeurs, commutateurs, serveurs). Déploiement et maintenance d’infrastructures télécoms et sans fil. Gestion des protocoles de communication, cybersécurité et supervision des systèmes. Programmation et automatisation de tâches réseau.",
             images: [
-                // {
-                //     url: "https://i.ibb.co/vCnYwpfT/DUTentre.jpg",
-                //     alt: "Université de Pau et des Pays de l'Adour (UPPA)",
-                //     description: "Université de Pau et des Pays de l'Adour (UPPA)"
-                // }
+                {
+                    url: "https://i.ibb.co/vCnYwpfT/DUTentre.jpg",
+                    alt: "Université de Pau et des Pays de l'Adour (UPPA)",
+                    description: "Université de Pau et des Pays de l'Adour (UPPA)"
+                }
             ]
         },
         {
@@ -80,11 +80,11 @@ export const userConfig = {
             year: "2014-2017",
             description: "Montage, câblage et maintenance de systèmes électroniques, programmation d'automates et microcontroleurs, installation et dépannage de réseaux et équipements audiovisuels. Maîtrise des logiciels de conception assistée par ordinateur, lecture de schémas et application des normes en vigueur en électricité et électronique.",
             images: [
-                // {
-                //     url: "https://i.ibb.co/k27pW06L/lyc-e-saintjeanbosco.jpg",
-                //     alt: "Lycée profesionnel St. JOSEPH - Gabarret",
-                //     description: "Lycée profesionnel St. JOSEPH - Gabarret"
-                // }
+                {
+                    url: "https://i.ibb.co/k27pW06L/lyc-e-saintjeanbosco.jpg",
+                    alt: "Lycée profesionnel St. JOSEPH - Gabarret",
+                    description: "Lycée profesionnel St. JOSEPH - Gabarret"
+                }
             ]
         }
     ],
@@ -153,11 +153,11 @@ export const userConfig = {
             location: "j'aime en pratiquer quand j'ai du temps.",
             year: "16 ans",
             images: [
-                // {
-                //     url: "https://i.ibb.co/67dt5zMP/golf.jpg",
-                //     alt: "Golf practice",
-                //     description: "Golf au practice"
-                // }
+                {
+                    url: "https://i.ibb.co/67dt5zMP/golf.jpg",
+                    alt: "Golf practice",
+                    description: "Golf au practice"
+                }
             ]
         },
         
@@ -167,16 +167,16 @@ export const userConfig = {
             location: "découvrir les cultures et m'enrichir de savoir.",
             year: "2024",
             images: [
-                // {
-                //     url: "https://i.ibb.co/HpqZ7Y9B/voy2.jpg",
-                //     alt: "Voyage Istanbul",
-                //     description: "Istanbul - Fatih"
-                // },
-                // {
-                //     url: "https://i.ibb.co/PsggyH1P/voy1.jpg",
-                //     alt: "Voyage Istanbul",
-                //     description: "Istanbul - Besiktas"
-                // }
+                {
+                    url: "https://i.ibb.co/HpqZ7Y9B/voy2.jpg",
+                    alt: "Voyage Istanbul",
+                    description: "Istanbul - Fatih"
+                },
+                {
+                    url: "https://i.ibb.co/PsggyH1P/voy1.jpg",
+                    alt: "Voyage Istanbul",
+                    description: "Istanbul - Besiktas"
+                }
             ]
         },
         {
@@ -191,11 +191,11 @@ export const userConfig = {
             location: "chaque été c'est l'occasion d'améliorer mes compétences.",
             year: "9 ans",
             images: [
-                // {
-                //     url: "https://i.ibb.co/pv0cqJNh/beerpong.jpg",
-                //     alt: "Bière-pong",
-                //     description: "Bière-pong toute l'année"
-                // }
+                {
+                    url: "https://i.ibb.co/pv0cqJNh/beerpong.jpg",
+                    alt: "Bière-pong",
+                    description: "Bière-pong toute l'année"
+                }
             ]
         }
     ],
@@ -210,11 +210,11 @@ export const userConfig = {
             description: "Conception et développement de sites internet personnalisés (WordPress, PHP, React JS) et d'applications web/mobile (React Native). Création de chartes graphiques et d’identités visuelles (Canva, Photoshop). Accompagnement global des clients, cadrage des besoins, rédaction de cahiers des charges, choix techniques, développement, tests et mise en ligne. Conseil stratégique sur l’ergonomie, le référencement naturel (SEO) et la performance des solutions livrées.",
             technologies: ["PHP", "Python", "SQL Server", "Wordpress", "React", "Bootstrap", "Java", "MySQL", "API"],
             images: [
-                // {
-                //     url: "https://i.ibb.co/4RVHjPTQ/cfevo.png",
-                //     alt: "CF Evolution",
-                //     // description: "Luftborn Logo"
-                // }
+                {
+                    url: "https://i.ibb.co/4RVHjPTQ/cfevo.png",
+                    alt: "CF Evolution",
+                    // description: "Luftborn Logo"
+                }
             ]
         },
         {
@@ -225,11 +225,11 @@ export const userConfig = {
             description: "Supervision d’une équipe de chefs de projet web, coordination transverse avec les équipes techniques et créatives. Administration du serveur technique et pilotage de la production. Organisation des plannings, gestion des priorités et des incidents. Interface client pour le suivi opérationnel, la continuité de service et l'amélioration des processus internes.",
             technologies: ["Gestion d'équipe", "Planification", "Analyse des besoins", "conseil stratégique", "relation client", "plan d'action"],
             images: [
-                // {
-                //     url: "https://i.ibb.co/4gdBqx6s/kalitys.jpg",
-                //     alt: "KALITYS",
-                //     // description: "Working on .NET projects during the internship"
-                // }
+                {
+                    url: "https://i.ibb.co/4gdBqx6s/kalitys.jpg",
+                    alt: "KALITYS",
+                    // description: "Working on .NET projects during the internship"
+                }
             ]
         },
         {
@@ -240,11 +240,11 @@ export const userConfig = {
             description: "Gestion de projets web de A à Z, élaboration des cahiers des charges avec les clients, réalisation des wireframes sous Figma, coordination des équipes techniques avec Trello et Jira en méthodologie Agile. Planification des sprints, suivi des livrables et gestion des ressources pour garantir le respect des délais. Gestion et supervision des environnements de préproduction / production. Accompagnement post- livraison pour assurer le suivi, vérifications et mises en ligne.",
             technologies: ["Gestion de projet", "HTML", "CSS", "JavaScript", "Python"],
             images: [
-                // {
-                //     url: "https://i.ibb.co/4gdBqx6s/kalitys.jpg",
-                //     alt: "KALITYS",
-                //     // description: "Working on .NET projects during the internship"
-                // }
+                {
+                    url: "https://i.ibb.co/4gdBqx6s/kalitys.jpg",
+                    alt: "KALITYS",
+                    // description: "Working on .NET projects during the internship"
+                }
             ]
         },
         {
@@ -255,11 +255,11 @@ export const userConfig = {
             description: "Conception d'un site en interne, développement d'une géomap de supervision réseau via Centreon et API REST, automatisation de configurations d’équipements réseau avec des scripts, création d’une application de gestion de stocks (MySQL, Bootstrap).",
             technologies: ["PHP", "Python", "Python", "SQL", "HTML", "CSS", "JavaScript", "Centreon", "MongoDB", "MySQL", "Docker"],
             images: [
-                // {
-                //     url: "https://i.ibb.co/qLC97g3d/napsys.png",
-                //     alt: "Napsys group lyon",
-                //     // description: "Working on .NET projects during the internship"
-                // }
+                {
+                    url: "https://i.ibb.co/qLC97g3d/napsys.png",
+                    alt: "Napsys group lyon",
+                    // description: "Working on .NET projects during the internship"
+                }
             ]
         },
         {
@@ -270,11 +270,11 @@ export const userConfig = {
             description: "Déploiement de réseaux (Active Directory, Windows Server) en environnement hospitalier et commercial, maintenance et optimisation de postes sous Windows et Linux. Sécurisation des systèmes informatiques et support technique de proximité.",
             technologies: ["C++", "C#", "Python", "SQL"],
             images: [
-                // {
-                //     url: "https://i.ibb.co/hJQLVbDq/chuales.jpg",
-                //     alt: "CHU ALES",
-                //     // description: "Working on .NET projects during the internship"
-                // }
+                {
+                    url: "https://i.ibb.co/hJQLVbDq/chuales.jpg",
+                    alt: "CHU ALES",
+                    // description: "Working on .NET projects during the internship"
+                }
             ]
         }
     ],
