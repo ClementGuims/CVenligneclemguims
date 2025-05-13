@@ -1,0 +1,19 @@
+{
+    "id": "siteomnitrans",
+    "title": "Omnitrans Transport Gagne",
+    "description": "Un site vitrine avec espace Client et Employés réalisé sous wordpress.",
+    "liveUrl": "https://www.transports-gagne.com/",
+    "techStack": [
+        "WORDPRESS",
+        "Theme:Divi",
+        "CSS"
+    ],
+    "phrase": "Un site vitrine avec espace Client et Employés réalisé sous wordpress.",
+    "images": [
+        {
+            "url": "http://hirominecraftserver.gucl4656.odns.fr/screensitecv/siteomnitrans.png",
+            "alt": "Site Omnitrans",
+            "description": "Page de garde"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "cfevolution",
+    "title": "CF EVOLUTION",
+    "description": "Mon site vitrine réalisé sous wordpress.",
+    "liveUrl": "https://www.cf-evolution.com/",
+    "techStack": [
+        "WORDPRESS",
+        "Theme:Essentials",
+        "CSS"
+    ],
+    "phrase": "C'est le site internet de mon entreprise réalisé sous wordpress. J'ai' réalisé les designs graphiques, les éléments, les photos, les textes.",
+    "images": [
+        {
+            "url": "http://hirominecraftserver.gucl4656.odns.fr/screensitecv/screencfevo.png",
+            "alt": "Site CF-Evolution",
+            "description": "Page de garde"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "sitezinguerie",
+    "title": "Zinguerie CONDAMIN",
+    "description": "Un site vitrine réalisé sous wordpress.",
+    "liveUrl": "https://www.zingueriecondamin.fr/",
+    "techStack": [
+        "WORDPRESS",
+        "Theme:Divi",
+        "CSS"
+    ],
+    "phrase": "Un site vitrine classique réalisé sous wordpress.",
+    "images": [
+        {
+            "url": "http://hirominecraftserver.gucl4656.odns.fr/screensitecv/sitezinguerie.png",
+            "alt": "Site Zinguerie",
+            "description": "Page de garde"
+        }
+    ]
+}

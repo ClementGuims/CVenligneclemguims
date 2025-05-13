@@ -1,0 +1,26 @@
+{
+    "id": "luncherweb",
+    "title": "Luncher ManaMachina",
+    "description": "Un luncher pour un serveur minecraft, réalisé en react.",
+    "techStack": [
+        "React",
+        "HTML",
+        "CSS",
+        "JS",
+        "Json",
+        "API"
+    ],
+    "phrase": "Un luncher minecraft, réalisé en React en collaboration avec Fabien Laurence.",
+    "images": [
+        {
+            "url": "http://hirominecraftserver.gucl4656.odns.fr/screensitecv/screenlunchermc.png",
+            "alt": "Manamachinaluncher",
+            "description": "Page de garde"
+        },
+        {
+            "url": "http://hirominecraftserver.gucl4656.odns.fr/screensitecv/screenlunchermc1.png",
+            "alt": "Manamachinaluncher",
+            "description": "Page de paramètres"
+        }
+    ]
+}
