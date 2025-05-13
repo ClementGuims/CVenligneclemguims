@@ -12,15 +12,6 @@
     ],
     "phrase": "Un luncher minecraft, réalisé en React en collaboration avec Fabien Laurence.",
     "images": [
-        {
-            "url": "https://i.ibb.co/YTKvbd1S/screenlunchermc.png",
-            "alt": "Manamachinaluncher",
-            "description": "Page de garde"
-        },
-        {
-            "url": "https://i.ibb.co/1t1sbBGs/screenlunchermc1.png",
-            "alt": "Manamachinaluncher",
-            "description": "Page de paramètres"
-        }
+        
     ]
 }
